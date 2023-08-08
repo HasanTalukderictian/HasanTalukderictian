@@ -1,6 +1,8 @@
+
+![Web Designer & Developer](https://media.licdn.com/dms/image/D4E16AQEhTMhGnbqsKQ/profile-displaybackgroundimage-shrink_350_1400/0/1691477656923?e=1697068800&v=beta&t=yAbtrwFo2kqYHfloygQSBZG7UgGDBuSMM3PiS_FEAbE)
+
 ### Hi there 👋, I am Hasan Talukder
 #### Web Designer & Developer
-![Web Designer & Developer](https://media.licdn.com/dms/image/D4E16AQEhTMhGnbqsKQ/profile-displaybackgroundimage-shrink_350_1400/0/1691477656923?e=1697068800&v=beta&t=yAbtrwFo2kqYHfloygQSBZG7UgGDBuSMM3PiS_FEAbE)
 
 I'm Web designer and Developer who is passionate about making error 
 free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time  I work with React JS and other technologies, I enjoy working with include ReactJs, Javascript, express js, Mongodb and others technologies.
