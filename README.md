@@ -7,7 +7,7 @@
 I'm Web designer and Developer who is passionate about making error 
 free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time  I work with React JS and other technologies, I enjoy working with include ReactJs, Javascript, express js, Mongodb and others technologies.
 
-Skills: C / JAVA / REACT / JS / HTML / CSS / BOOTSTRAP/ MS WORD/ MS EXCEL / POWER POINT / Abode PhotoShop 
+Skills: C / JAVA / REACT  JS /XML/ HTML / CSS / BOOTSTRAP/ Tailwind /Express js/ SQL/ MySql/ MongoDb/ Android Studio/ MS WORD/ MS EXCEL / POWER POINT / Abode PhotoShop 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React-Router, Mongodb 
