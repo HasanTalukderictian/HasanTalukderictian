@@ -1,6 +1,3 @@
-
-![Web Designer & Developer](https://media.licdn.com/dms/image/D4E16AQEhTMhGnbqsKQ/profile-displaybackgroundimage-shrink_350_1400/0/1691477656923?e=1697068800&v=beta&t=yAbtrwFo2kqYHfloygQSBZG7UgGDBuSMM3PiS_FEAbE)
-
 ### Hi there 👋, I am Hasan Talukder
 #### Web Designer & Developer
 
